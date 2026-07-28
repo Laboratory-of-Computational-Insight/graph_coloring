@@ -5,6 +5,7 @@ For each c in 1..30, generates N_INST instances with n=2000,
 runs the pre-trained model, checks success rate for finding a legal 3-coloring
 via k-means on the final embedding, and plots success rate vs c.
 """
+import argparse
 import json
 import os
 import numpy as np
@@ -18,14 +19,31 @@ from model import GCPNet
 from random_planted import create_planted_3col
 from gc_utils import is_k_color, sklearn_k_means
 
+
+def parse_args():
+    p = argparse.ArgumentParser(description=__doc__)
+    p.add_argument("--n", type=int, default=2000, help="Graph size")
+    p.add_argument("--c-min", type=int, default=1, help="Minimum average degree c")
+    p.add_argument("--c-max", type=int, default=30, help="Maximum average degree c (inclusive)")
+    p.add_argument("--n-inst", type=int, default=500, help="Instances per c value")
+    p.add_argument("--tmax", type=int, default=32, help="Message-passing iterations")
+    p.add_argument("--results-file", type=str, default=None,
+                    help="Defaults to ../results/sweep_results_n{N}.json")
+    p.add_argument("--plot-file", type=str, default=None,
+                    help="Defaults to ../results/sweep_n{N}.png")
+    return p.parse_args()
+
+
+ARGS = parse_args()
+
 # ── Config ─────────────────────────────────────────────────────────────────
-N        = 2000
+N        = ARGS.n
 K        = 3
-N_INST   = 500
-C_VALUES = list(range(1, 31))
-TMAX     = 32
-RESULTS_FILE = "../results/sweep_results_n2000.json"
-PLOT_FILE    = "../results/sweep_n2000.png"
+N_INST   = ARGS.n_inst
+C_VALUES = list(range(ARGS.c_min, ARGS.c_max + 1))
+TMAX     = ARGS.tmax
+RESULTS_FILE = ARGS.results_file or f"../results/sweep_results_n{N}.json"
+PLOT_FILE    = ARGS.plot_file or f"../results/sweep_n{N}.png"
 
 DEVICE = ("mps"  if torch.backends.mps.is_available()  else
           "cuda" if torch.cuda.is_available()           else "cpu")

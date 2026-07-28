@@ -1,0 +1,929 @@
+[
+ {
+  "c": "1.0",
+  "van_s": 97,
+  "ak_s": 100,
+  "van_mean": 1.1649484536082475,
+  "van_max": 6,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "1.5",
+  "van_s": 97,
+  "ak_s": 100,
+  "van_mean": 2.9690721649484537,
+  "van_max": 26,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "2.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 41.43,
+  "van_max": 423,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "2.5",
+  "van_s": 62,
+  "ak_s": 100,
+  "van_mean": 357.43548387096774,
+  "van_max": 996,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "3.0",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "3.5",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "3.52",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.03,
+  "ak_max": 2
+ },
+ {
+  "c": "3.54",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.05,
+  "ak_max": 3
+ },
+ {
+  "c": "3.56",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.04,
+  "ak_max": 2
+ },
+ {
+  "c": "3.58",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.03,
+  "ak_max": 2
+ },
+ {
+  "c": "3.6",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.05,
+  "ak_max": 2
+ },
+ {
+  "c": "3.62",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.05,
+  "ak_max": 2
+ },
+ {
+  "c": "3.64",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.03,
+  "ak_max": 2
+ },
+ {
+  "c": "3.66",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.02,
+  "ak_max": 2
+ },
+ {
+  "c": "3.68",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "3.7",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.02,
+  "ak_max": 2
+ },
+ {
+  "c": "3.72",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.03,
+  "ak_max": 2
+ },
+ {
+  "c": "3.74",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.01,
+  "ak_max": 2
+ },
+ {
+  "c": "3.76",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.03,
+  "ak_max": 2
+ },
+ {
+  "c": "3.78",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.04,
+  "ak_max": 2
+ },
+ {
+  "c": "3.8",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.02,
+  "ak_max": 2
+ },
+ {
+  "c": "3.82",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.03,
+  "ak_max": 2
+ },
+ {
+  "c": "3.84",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.02,
+  "ak_max": 2
+ },
+ {
+  "c": "3.86",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.12,
+  "ak_max": 6
+ },
+ {
+  "c": "3.88",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.04,
+  "ak_max": 2
+ },
+ {
+  "c": "3.9",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.02,
+  "ak_max": 2
+ },
+ {
+  "c": "3.92",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.06,
+  "ak_max": 2
+ },
+ {
+  "c": "3.94",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.16,
+  "ak_max": 6
+ },
+ {
+  "c": "3.96",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.03,
+  "ak_max": 2
+ },
+ {
+  "c": "3.98",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.1,
+  "ak_max": 7
+ },
+ {
+  "c": "4.0",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.06,
+  "ak_max": 6
+ },
+ {
+  "c": "4.02",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.24,
+  "ak_max": 7
+ },
+ {
+  "c": "4.04",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.24,
+  "ak_max": 12
+ },
+ {
+  "c": "4.06",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.21,
+  "ak_max": 6
+ },
+ {
+  "c": "4.08",
+  "van_s": 0,
+  "ak_s": 100,
+  "van_mean": null,
+  "van_max": 0,
+  "ak_mean": 1.24,
+  "ak_max": 7
+ },
+ {
+  "c": "4.1",
+  "van_s": 2,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.16,
+  "ak_max": 6
+ },
+ {
+  "c": "4.12",
+  "van_s": 1,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.26,
+  "ak_max": 7
+ },
+ {
+  "c": "4.14",
+  "van_s": 2,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.59,
+  "ak_max": 26
+ },
+ {
+  "c": "4.16",
+  "van_s": 2,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.7,
+  "ak_max": 36
+ },
+ {
+  "c": "4.18",
+  "van_s": 5,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.75,
+  "ak_max": 17
+ },
+ {
+  "c": "4.2",
+  "van_s": 6,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 2.11,
+  "ak_max": 37
+ },
+ {
+  "c": "4.22",
+  "van_s": 4,
+  "ak_s": 100,
+  "van_mean": 5.5,
+  "van_max": 13,
+  "ak_mean": 2.21,
+  "ak_max": 17
+ },
+ {
+  "c": "4.24",
+  "van_s": 7,
+  "ak_s": 100,
+  "van_mean": 2.2857142857142856,
+  "van_max": 10,
+  "ak_mean": 1.84,
+  "ak_max": 16
+ },
+ {
+  "c": "4.26",
+  "van_s": 9,
+  "ak_s": 100,
+  "van_mean": 17.0,
+  "van_max": 144,
+  "ak_mean": 2.64,
+  "ak_max": 31
+ },
+ {
+  "c": "4.28",
+  "van_s": 9,
+  "ak_s": 100,
+  "van_mean": 2.0,
+  "van_max": 10,
+  "ak_mean": 3.35,
+  "ak_max": 76
+ },
+ {
+  "c": "4.3",
+  "van_s": 7,
+  "ak_s": 100,
+  "van_mean": 1.7142857142857142,
+  "van_max": 6,
+  "ak_mean": 3.04,
+  "ak_max": 46
+ },
+ {
+  "c": "4.32",
+  "van_s": 12,
+  "ak_s": 100,
+  "van_mean": 4.25,
+  "van_max": 36,
+  "ak_mean": 3.78,
+  "ak_max": 81
+ },
+ {
+  "c": "4.34",
+  "van_s": 15,
+  "ak_s": 100,
+  "van_mean": 88.46666666666667,
+  "van_max": 475,
+  "ak_mean": 5.02,
+  "ak_max": 82
+ },
+ {
+  "c": "4.36",
+  "van_s": 19,
+  "ak_s": 100,
+  "van_mean": 4.684210526315789,
+  "van_max": 51,
+  "ak_mean": 5.45,
+  "ak_max": 76
+ },
+ {
+  "c": "4.38",
+  "van_s": 22,
+  "ak_s": 100,
+  "van_mean": 59.13636363636363,
+  "van_max": 742,
+  "ak_mean": 8.84,
+  "ak_max": 416
+ },
+ {
+  "c": "4.4",
+  "van_s": 28,
+  "ak_s": 98,
+  "van_mean": 30.678571428571427,
+  "van_max": 682,
+  "ak_mean": 16.989795918367346,
+  "ak_max": 731
+ },
+ {
+  "c": "4.42",
+  "van_s": 29,
+  "ak_s": 99,
+  "van_mean": 7.551724137931035,
+  "van_max": 81,
+  "ak_mean": 15.767676767676768,
+  "ak_max": 351
+ },
+ {
+  "c": "4.44",
+  "van_s": 34,
+  "ak_s": 100,
+  "van_mean": 1.4705882352941178,
+  "van_max": 10,
+  "ak_mean": 19.88,
+  "ak_max": 696
+ },
+ {
+  "c": "4.46",
+  "van_s": 43,
+  "ak_s": 97,
+  "van_mean": 18.0,
+  "van_max": 550,
+  "ak_mean": 12.577319587628866,
+  "ak_max": 271
+ },
+ {
+  "c": "4.48",
+  "van_s": 44,
+  "ak_s": 98,
+  "van_mean": 8.75,
+  "van_max": 301,
+  "ak_mean": 20.346938775510203,
+  "ak_max": 437
+ },
+ {
+  "c": "4.5",
+  "van_s": 57,
+  "ak_s": 98,
+  "van_mean": 17.035087719298247,
+  "van_max": 544,
+  "ak_mean": 23.224489795918366,
+  "ak_max": 441
+ },
+ {
+  "c": "4.52",
+  "van_s": 64,
+  "ak_s": 99,
+  "van_mean": 27.59375,
+  "van_max": 705,
+  "ak_mean": 33.18181818181818,
+  "ak_max": 746
+ },
+ {
+  "c": "4.54",
+  "van_s": 61,
+  "ak_s": 99,
+  "van_mean": 7.852459016393443,
+  "van_max": 347,
+  "ak_mean": 32.82828282828283,
+  "ak_max": 826
+ },
+ {
+  "c": "4.56",
+  "van_s": 74,
+  "ak_s": 97,
+  "van_mean": 11.472972972972974,
+  "van_max": 612,
+  "ak_mean": 28.04123711340206,
+  "ak_max": 386
+ },
+ {
+  "c": "4.58",
+  "van_s": 73,
+  "ak_s": 97,
+  "van_mean": 24.63013698630137,
+  "van_max": 793,
+  "ak_mean": 52.63917525773196,
+  "ak_max": 831
+ },
+ {
+  "c": "4.6",
+  "van_s": 72,
+  "ak_s": 95,
+  "van_mean": 10.291666666666666,
+  "van_max": 596,
+  "ak_mean": 43.126315789473686,
+  "ak_max": 972
+ },
+ {
+  "c": "4.62",
+  "van_s": 79,
+  "ak_s": 96,
+  "van_mean": 1.6329113924050633,
+  "van_max": 24,
+  "ak_mean": 54.583333333333336,
+  "ak_max": 866
+ },
+ {
+  "c": "4.64",
+  "van_s": 84,
+  "ak_s": 97,
+  "van_mean": 9.392857142857142,
+  "van_max": 541,
+  "ak_mean": 69.16494845360825,
+  "ak_max": 961
+ },
+ {
+  "c": "4.66",
+  "van_s": 76,
+  "ak_s": 96,
+  "van_mean": 3.25,
+  "van_max": 168,
+  "ak_mean": 40.010416666666664,
+  "ak_max": 676
+ },
+ {
+  "c": "4.68",
+  "van_s": 79,
+  "ak_s": 94,
+  "van_mean": 10.354430379746836,
+  "van_max": 699,
+  "ak_mean": 36.97872340425532,
+  "ak_max": 506
+ },
+ {
+  "c": "4.69",
+  "van_s": 85,
+  "ak_s": 95,
+  "van_mean": 1.1058823529411765,
+  "van_max": 10,
+  "ak_mean": 32.642105263157895,
+  "ak_max": 926
+ },
+ {
+  "c": "4.7",
+  "van_s": 86,
+  "ak_s": 95,
+  "van_mean": 1.5,
+  "van_max": 35,
+  "ak_mean": 29.49473684210526,
+  "ak_max": 471
+ },
+ {
+  "c": "4.72",
+  "van_s": 81,
+  "ak_s": 94,
+  "van_mean": 1.1358024691358024,
+  "van_max": 8,
+  "ak_mean": 26.393617021276597,
+  "ak_max": 681
+ },
+ {
+  "c": "4.74",
+  "van_s": 82,
+  "ak_s": 95,
+  "van_mean": 1.2195121951219512,
+  "van_max": 12,
+  "ak_mean": 25.28421052631579,
+  "ak_max": 396
+ },
+ {
+  "c": "4.76",
+  "van_s": 89,
+  "ak_s": 97,
+  "van_mean": 7.426966292134831,
+  "van_max": 544,
+  "ak_mean": 21.257731958762886,
+  "ak_max": 336
+ },
+ {
+  "c": "4.78",
+  "van_s": 91,
+  "ak_s": 96,
+  "van_mean": 1.1538461538461537,
+  "van_max": 13,
+  "ak_mean": 30.552083333333332,
+  "ak_max": 771
+ },
+ {
+  "c": "4.8",
+  "van_s": 91,
+  "ak_s": 96,
+  "van_mean": 2.6043956043956045,
+  "van_max": 145,
+  "ak_mean": 20.458333333333332,
+  "ak_max": 596
+ },
+ {
+  "c": "5.0",
+  "van_s": 97,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 7.16,
+  "ak_max": 186
+ },
+ {
+  "c": "5.5",
+  "van_s": 98,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.08,
+  "ak_max": 6
+ },
+ {
+  "c": "6.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.02,
+  "ak_max": 3
+ },
+ {
+  "c": "6.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "7.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "7.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "8.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "8.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "9.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "9.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "10.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.0,
+  "van_max": 1,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "10.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.05,
+  "van_max": 2,
+  "ak_mean": 1.12,
+  "ak_max": 4
+ },
+ {
+  "c": "11.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.09,
+  "van_max": 3,
+  "ak_mean": 1.17,
+  "ak_max": 5
+ },
+ {
+  "c": "11.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.46,
+  "van_max": 5,
+  "ak_mean": 1.22,
+  "ak_max": 5
+ },
+ {
+  "c": "12.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.39,
+  "van_max": 6,
+  "ak_mean": 1.17,
+  "ak_max": 5
+ },
+ {
+  "c": "12.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.91,
+  "van_max": 11,
+  "ak_mean": 1.22,
+  "ak_max": 6
+ },
+ {
+  "c": "13.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.61,
+  "van_max": 4,
+  "ak_mean": 1.08,
+  "ak_max": 2
+ },
+ {
+  "c": "13.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.49,
+  "van_max": 8,
+  "ak_mean": 1.08,
+  "ak_max": 3
+ },
+ {
+  "c": "14.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.61,
+  "van_max": 5,
+  "ak_mean": 1.03,
+  "ak_max": 2
+ },
+ {
+  "c": "14.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.15,
+  "van_max": 4,
+  "ak_mean": 1.01,
+  "ak_max": 2
+ },
+ {
+  "c": "15.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.43,
+  "van_max": 5,
+  "ak_mean": 1.03,
+  "ak_max": 2
+ },
+ {
+  "c": "15.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.29,
+  "van_max": 4,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "16.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.23,
+  "van_max": 4,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "16.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.28,
+  "van_max": 4,
+  "ak_mean": 1.01,
+  "ak_max": 2
+ },
+ {
+  "c": "17.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.16,
+  "van_max": 3,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "17.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.31,
+  "van_max": 7,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "18.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.11,
+  "van_max": 3,
+  "ak_mean": 1.01,
+  "ak_max": 2
+ },
+ {
+  "c": "18.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.05,
+  "van_max": 2,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "19.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.29,
+  "van_max": 6,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "19.5",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.06,
+  "van_max": 3,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ },
+ {
+  "c": "20.0",
+  "van_s": 100,
+  "ak_s": 100,
+  "van_mean": 1.01,
+  "van_max": 2,
+  "ak_mean": 1.0,
+  "ak_max": 1
+ }
+]

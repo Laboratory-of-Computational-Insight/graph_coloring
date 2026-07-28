@@ -1,0 +1,215 @@
+{
+  "c": 4.69,
+  "n": 1000,
+  "per_instance": {
+    "0": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 14,
+      "FULL_OR": true
+    },
+    "1": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": false,
+      "bp_restarts_used": 50,
+      "FULL_OR": false
+    },
+    "2": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 2,
+      "FULL_OR": true
+    },
+    "3": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 5,
+      "FULL_OR": true
+    },
+    "4": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 25,
+      "FULL_OR": true
+    },
+    "5": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": false,
+      "bp_restarts_used": 50,
+      "FULL_OR": false
+    },
+    "6": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": false,
+      "bp_restarts_used": 50,
+      "FULL_OR": false
+    },
+    "7": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 4,
+      "FULL_OR": true
+    },
+    "8": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 13,
+      "FULL_OR": true
+    },
+    "9": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 2,
+      "FULL_OR": true
+    },
+    "10": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": false,
+      "bp_restarts_used": 50,
+      "FULL_OR": false
+    },
+    "11": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": false,
+      "bp_restarts_used": 50,
+      "FULL_OR": false
+    },
+    "12": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 12,
+      "FULL_OR": true
+    },
+    "13": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": false,
+      "bp_restarts_used": 50,
+      "FULL_OR": false
+    },
+    "14": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": false,
+      "bp_restarts_used": 50,
+      "FULL_OR": false
+    },
+    "15": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": false,
+      "bp_restarts_used": 50,
+      "FULL_OR": false
+    },
+    "16": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": false,
+      "bp_restarts_used": 50,
+      "FULL_OR": false
+    },
+    "17": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 25,
+      "FULL_OR": true
+    },
+    "18": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 36,
+      "FULL_OR": true
+    },
+    "19": {
+      "pairwise": false,
+      "multistage": false,
+      "alon_kahale": false,
+      "dsatur": false,
+      "peel": false,
+      "bp": true,
+      "bp_restarts_used": 1,
+      "FULL_OR": true
+    }
+  },
+  "summary": {
+    "pairwise": 0,
+    "multistage": 0,
+    "alon_kahale": 0,
+    "dsatur": 0,
+    "peel": 0,
+    "bp": 11,
+    "FULL_OR": 11
+  }
+}

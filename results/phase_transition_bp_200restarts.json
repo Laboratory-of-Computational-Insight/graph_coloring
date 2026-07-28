@@ -1,0 +1,82 @@
+{
+  "0": {
+    "success": true,
+    "restarts_used": 14
+  },
+  "1": {
+    "success": false,
+    "restarts_used": 200
+  },
+  "2": {
+    "success": true,
+    "restarts_used": 2
+  },
+  "3": {
+    "success": true,
+    "restarts_used": 5
+  },
+  "4": {
+    "success": true,
+    "restarts_used": 25
+  },
+  "5": {
+    "success": true,
+    "restarts_used": 185
+  },
+  "6": {
+    "success": false,
+    "restarts_used": 200
+  },
+  "7": {
+    "success": true,
+    "restarts_used": 4
+  },
+  "8": {
+    "success": true,
+    "restarts_used": 13
+  },
+  "9": {
+    "success": true,
+    "restarts_used": 2
+  },
+  "10": {
+    "success": false,
+    "restarts_used": 200
+  },
+  "11": {
+    "success": true,
+    "restarts_used": 51
+  },
+  "12": {
+    "success": true,
+    "restarts_used": 12
+  },
+  "13": {
+    "success": true,
+    "restarts_used": 51
+  },
+  "14": {
+    "success": true,
+    "restarts_used": 141
+  },
+  "15": {
+    "success": true,
+    "restarts_used": 182
+  },
+  "16": {
+    "success": false,
+    "restarts_used": 200
+  },
+  "17": {
+    "success": true,
+    "restarts_used": 25
+  },
+  "18": {
+    "success": true,
+    "restarts_used": 36
+  },
+  "19": {
+    "success": true,
+    "restarts_used": 1
+  }
+}

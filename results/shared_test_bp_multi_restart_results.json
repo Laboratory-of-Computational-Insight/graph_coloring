@@ -1,0 +1,84 @@
+{
+  "5": {
+    "0": {
+      "success": true,
+      "n_restarts_used": 1
+    },
+    "1": {
+      "success": true,
+      "n_restarts_used": 5
+    },
+    "2": {
+      "success": true,
+      "n_restarts_used": 9
+    },
+    "3": {
+      "success": true,
+      "n_restarts_used": 2
+    },
+    "4": {
+      "success": true,
+      "n_restarts_used": 2
+    },
+    "5": {
+      "success": true,
+      "n_restarts_used": 4
+    },
+    "6": {
+      "success": true,
+      "n_restarts_used": 2
+    },
+    "7": {
+      "success": true,
+      "n_restarts_used": 2
+    },
+    "8": {
+      "success": true,
+      "n_restarts_used": 1
+    },
+    "9": {
+      "success": true,
+      "n_restarts_used": 22
+    },
+    "10": {
+      "success": true,
+      "n_restarts_used": 2
+    },
+    "11": {
+      "success": true,
+      "n_restarts_used": 1
+    },
+    "12": {
+      "success": true,
+      "n_restarts_used": 15
+    },
+    "13": {
+      "success": false,
+      "n_restarts_used": 50
+    },
+    "14": {
+      "success": true,
+      "n_restarts_used": 5
+    },
+    "15": {
+      "success": true,
+      "n_restarts_used": 1
+    },
+    "16": {
+      "success": true,
+      "n_restarts_used": 26
+    },
+    "17": {
+      "success": true,
+      "n_restarts_used": 17
+    },
+    "18": {
+      "success": true,
+      "n_restarts_used": 1
+    },
+    "19": {
+      "success": true,
+      "n_restarts_used": 4
+    }
+  }
+}

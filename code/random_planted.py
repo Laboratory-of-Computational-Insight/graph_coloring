@@ -2,6 +2,30 @@ import numpy as np
 import torch
 
 
+def create_planted_3col(n, c):
+    """
+    Planted 3-colorable graph: balanced partition into 3 classes of size ~n/3,
+    cross-class edges only, edge probability p = 3c/(2n) so E[deg(v)] = c.
+
+    Returns (assignment, adj_matrix): assignment is a 0-indexed color per vertex
+    (torch.long, values in {0,1,2}), adj_matrix is a symmetric 0/1 torch tensor
+    with zero diagonal.
+    """
+    base, rem = divmod(n, 3)
+    sizes = [base + (1 if i < rem else 0) for i in range(3)]
+    assignment = torch.cat([torch.full((sizes[i],), i, dtype=torch.long) for i in range(3)])
+    assignment = assignment[torch.randperm(n)]
+
+    p = 3.0 * c / (2.0 * n)
+    diff_class = assignment.unsqueeze(1) != assignment.unsqueeze(0)
+    upper = torch.triu(torch.bernoulli(torch.full((n, n), p)), diagonal=1)
+    adj_matrix = (upper * diff_class.float())
+    adj_matrix = adj_matrix + adj_matrix.t()
+    adj_matrix.fill_diagonal_(0)
+
+    return assignment, adj_matrix
+
+
 def create_random_k(n, k, p=0.5):
     assignment = torch.randint(0,k, size=(n,))
     assignment += 1

@@ -1,0 +1,248 @@
+{
+  "4": {
+    "0": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "1": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "2": {
+      "pairwise": true,
+      "multistage": false
+    },
+    "3": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "4": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "5": {
+      "pairwise": false,
+      "multistage": true
+    },
+    "6": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "7": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "8": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "9": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "10": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "11": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "12": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "13": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "14": {
+      "pairwise": true,
+      "multistage": false
+    },
+    "15": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "16": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "17": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "18": {
+      "pairwise": true,
+      "multistage": true
+    },
+    "19": {
+      "pairwise": true,
+      "multistage": true
+    }
+  },
+  "5": {
+    "0": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "1": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "2": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "3": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "4": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "5": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "6": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "7": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "8": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "9": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "10": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "11": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "12": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "13": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "14": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "15": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "16": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "17": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "18": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "19": {
+      "pairwise": false,
+      "multistage": false
+    }
+  },
+  "6": {
+    "0": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "1": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "2": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "3": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "4": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "5": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "6": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "7": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "8": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "9": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "10": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "11": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "12": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "13": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "14": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "15": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "16": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "17": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "18": {
+      "pairwise": false,
+      "multistage": false
+    },
+    "19": {
+      "pairwise": false,
+      "multistage": false
+    }
+  }
+}

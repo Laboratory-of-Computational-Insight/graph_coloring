@@ -1,0 +1,62 @@
+{
+  "3": {
+    "successes": 15,
+    "n_inst": 50,
+    "rate": 0.3
+  },
+  "4": {
+    "successes": 0,
+    "n_inst": 50,
+    "rate": 0.0
+  },
+  "5": {
+    "successes": 0,
+    "n_inst": 50,
+    "rate": 0.0
+  },
+  "6": {
+    "successes": 7,
+    "n_inst": 50,
+    "rate": 0.14
+  },
+  "7": {
+    "successes": 35,
+    "n_inst": 50,
+    "rate": 0.7
+  },
+  "8": {
+    "successes": 38,
+    "n_inst": 50,
+    "rate": 0.76
+  },
+  "9": {
+    "successes": 28,
+    "n_inst": 50,
+    "rate": 0.56
+  },
+  "10": {
+    "successes": 16,
+    "n_inst": 50,
+    "rate": 0.32
+  },
+  "11": {
+    "successes": 4,
+    "n_inst": 50,
+    "rate": 0.08
+  },
+  "12": {
+    "successes": 1,
+    "n_inst": 50,
+    "rate": 0.02
+  },
+  "13": {
+    "successes": 0,
+    "n_inst": 50,
+    "rate": 0.0
+  },
+  "14": {
+    "successes": 1,
+    "n_inst": 50,
+    "rate": 0.02
+  }
+}

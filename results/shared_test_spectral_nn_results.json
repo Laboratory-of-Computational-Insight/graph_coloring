@@ -1,0 +1,422 @@
+{
+  "6": {
+    "per_instance": {
+      "0": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "1": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "2": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "3": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "4": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "5": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "6": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "7": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "8": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "9": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "10": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "11": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "12": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "13": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "14": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "15": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "16": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "17": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "18": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "19": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      }
+    },
+    "any_count": 0
+  },
+  "7": {
+    "per_instance": {
+      "0": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "1": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "2": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "3": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "4": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "5": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "6": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "7": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "8": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "9": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "10": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "11": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "12": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "13": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "14": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "15": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "16": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "17": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "18": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "19": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      }
+    },
+    "any_count": 0
+  },
+  "8": {
+    "per_instance": {
+      "0": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "1": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "2": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "3": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "4": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "5": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "6": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "7": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "8": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "9": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "10": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "11": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "12": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "13": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "14": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "15": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "16": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "17": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "18": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "19": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      }
+    },
+    "any_count": 0
+  },
+  "9": {
+    "per_instance": {
+      "0": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "1": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "2": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "3": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": false
+      },
+      "4": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": true
+      },
+      "5": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": true
+      },
+      "6": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": true
+      },
+      "7": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": true
+      },
+      "8": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": false
+      },
+      "9": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": true
+      },
+      "10": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": true
+      },
+      "11": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": true
+      },
+      "12": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "13": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": true
+      },
+      "14": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": false
+      },
+      "15": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": true
+      },
+      "16": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "17": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": false
+      },
+      "18": {
+        "medium_gps_pairwise": false,
+        "medium_eig4_only": true,
+        "medium_multistage_pairwise": true
+      },
+      "19": {
+        "medium_gps_pairwise": true,
+        "medium_eig4_only": false,
+        "medium_multistage_pairwise": true
+      }
+    },
+    "any_count": 18
+  }
+}

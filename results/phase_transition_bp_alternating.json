@@ -1,0 +1,20 @@
+{
+  "1": {
+    "success": true,
+    "winner": "plain_bp(seed=275)",
+    "bp_attempts": 276,
+    "hyper_attempts": 200
+  },
+  "10": {
+    "success": true,
+    "winner": "hyperparam_bp(attempt=46)",
+    "bp_attempts": 47,
+    "hyper_attempts": 47
+  },
+  "16": {
+    "success": false,
+    "winner": null,
+    "bp_attempts": 500,
+    "hyper_attempts": 200
+  }
+}

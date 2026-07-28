@@ -1,0 +1,37 @@
+{
+  "3": {
+    "successes": 30,
+    "n_inst": 50,
+    "rate": 0.6
+  },
+  "4": {
+    "successes": 0,
+    "n_inst": 50,
+    "rate": 0.0
+  },
+  "5": {
+    "successes": 0,
+    "n_inst": 50,
+    "rate": 0.0
+  },
+  "6": {
+    "successes": 4,
+    "n_inst": 50,
+    "rate": 0.08
+  },
+  "7": {
+    "successes": 30,
+    "n_inst": 50,
+    "rate": 0.6
+  },
+  "8": {
+    "successes": 43,
+    "n_inst": 50,
+    "rate": 0.86
+  },
+  "9": {
+    "successes": 44,
+    "n_inst": 50,
+    "rate": 0.88
+  }
+}

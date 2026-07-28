@@ -1,0 +1,904 @@
+{
+  "5": {
+    "0": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "1": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "2": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "3": {
+      "method": "bp",
+      "restarts": 5
+    },
+    "4": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "5": {
+      "method": "bp",
+      "restarts": 13
+    },
+    "6": {
+      "method": "bp",
+      "restarts": 18
+    },
+    "7": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "8": {
+      "method": "bp",
+      "restarts": 8
+    },
+    "9": {
+      "method": "bp",
+      "restarts": 27
+    },
+    "10": {
+      "method": "bp",
+      "restarts": 16
+    },
+    "11": {
+      "method": "bp",
+      "restarts": 8
+    },
+    "12": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "13": {
+      "method": "none",
+      "restarts": 1000
+    },
+    "14": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "15": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "16": {
+      "method": "bp",
+      "restarts": 5
+    },
+    "17": {
+      "method": "bp",
+      "restarts": 9
+    },
+    "18": {
+      "method": "bp",
+      "restarts": 12
+    },
+    "19": {
+      "method": "bp",
+      "restarts": 1
+    }
+  },
+  "6": {
+    "0": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "1": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "2": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "3": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "4": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "5": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "6": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "7": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "8": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "9": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "10": {
+      "method": "bp",
+      "restarts": 11
+    },
+    "11": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "12": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "13": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "14": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "15": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "16": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "17": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "18": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "19": {
+      "method": "bp",
+      "restarts": 2
+    }
+  },
+  "7": {
+    "0": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "1": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "2": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "3": {
+      "method": "bp",
+      "restarts": 5
+    },
+    "4": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "5": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "6": {
+      "method": "bp",
+      "restarts": 6
+    },
+    "7": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "8": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "9": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "10": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "11": {
+      "method": "bp",
+      "restarts": 5
+    },
+    "12": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "13": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "14": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "15": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "16": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "17": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "18": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "19": {
+      "method": "bp",
+      "restarts": 3
+    }
+  },
+  "8": {
+    "0": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "1": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "2": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "3": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "4": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "5": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "6": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "7": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "8": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "9": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "10": {
+      "method": "bp",
+      "restarts": 8
+    },
+    "11": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "12": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "13": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "14": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "15": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "16": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "17": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "18": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "19": {
+      "method": "bp",
+      "restarts": 2
+    }
+  },
+  "9": {
+    "0": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "1": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "2": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "3": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "4": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "5": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "6": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "7": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "8": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "9": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "10": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "11": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "12": {
+      "method": "bp",
+      "restarts": 9
+    },
+    "13": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "14": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "15": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "16": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "17": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "18": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "19": {
+      "method": "bp",
+      "restarts": 3
+    }
+  },
+  "10": {
+    "0": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "1": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "2": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "3": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "4": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "5": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "6": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "7": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "8": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "9": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "10": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "11": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "12": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "13": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "14": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "15": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "16": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "17": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "18": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "19": {
+      "method": "bp",
+      "restarts": 1
+    }
+  },
+  "11": {
+    "0": {
+      "method": "bp",
+      "restarts": 5
+    },
+    "1": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "2": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "3": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "4": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "5": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "6": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "7": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "8": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "9": {
+      "method": "bp",
+      "restarts": 7
+    },
+    "10": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "11": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "12": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "13": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "14": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "15": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "16": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "17": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "18": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "19": {
+      "method": "bp",
+      "restarts": 4
+    }
+  },
+  "12": {
+    "0": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "1": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "2": {
+      "method": "bp",
+      "restarts": 5
+    },
+    "3": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "4": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "5": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "6": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "7": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "8": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "9": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "10": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "11": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "12": {
+      "method": "bp",
+      "restarts": 5
+    },
+    "13": {
+      "method": "bp",
+      "restarts": 3
+    },
+    "14": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "15": {
+      "method": "bp",
+      "restarts": 4
+    },
+    "16": {
+      "method": "bp",
+      "restarts": 1
+    },
+    "17": {
+      "method": "bp",
+      "restarts": 8
+    },
+    "18": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "19": {
+      "method": "alon_kahale",
+      "restarts": 0
+    }
+  },
+  "13": {
+    "0": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "1": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "2": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "3": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "4": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "5": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "6": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "7": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "8": {
+      "method": "bp",
+      "restarts": 6
+    },
+    "9": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "10": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "11": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "12": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "13": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "14": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "15": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "16": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "17": {
+      "method": "bp",
+      "restarts": 2
+    },
+    "18": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "19": {
+      "method": "alon_kahale",
+      "restarts": 0
+    }
+  },
+  "14": {
+    "0": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "1": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "2": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "3": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "4": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "5": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "6": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "7": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "8": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "9": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "10": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "11": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "12": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "13": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "14": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "15": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "16": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "17": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "18": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "19": {
+      "method": "alon_kahale",
+      "restarts": 0
+    }
+  },
+  "15": {
+    "0": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "1": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "2": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "3": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "4": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "5": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "6": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "7": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "8": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "9": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "10": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "11": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "12": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "13": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "14": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "15": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "16": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "17": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "18": {
+      "method": "alon_kahale",
+      "restarts": 0
+    },
+    "19": {
+      "method": "alon_kahale",
+      "restarts": 0
+    }
+  }
+}

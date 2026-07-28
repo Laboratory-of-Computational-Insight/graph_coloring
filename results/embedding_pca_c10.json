@@ -1,0 +1,56 @@
+{
+  "spectral_nn": {
+    "attempt_used": 2,
+    "explained_variance_ratio_pc1to4": [
+      0.9999681711196899,
+      2.9619190172525123e-05,
+      1.3554322322306689e-06,
+      4.316416379879229e-07
+    ]
+  },
+  "pairwise_nn": {
+    "attempt_used": 1,
+    "explained_variance_ratio_pc1to4": [
+      0.9395222067832947,
+      0.05491046607494354,
+      0.0028884317725896835,
+      0.0010800572345033288
+    ]
+  },
+  "multistage_nn": {
+    "attempt_used": 1,
+    "explained_variance_ratio_pc1to4": [
+      0.9994141459465027,
+      0.00022550704306922853,
+      0.00015765501302666962,
+      8.633784455014393e-05
+    ]
+  },
+  "multihead_gnn": {
+    "attempt_used": 3,
+    "explained_variance_ratio_pc1to4": [
+      0.9996974468231201,
+      8.86448979144916e-05,
+      7.130231097107753e-05,
+      4.779556184075773e-05
+    ]
+  },
+  "multistage_pairwise_nn": {
+    "attempt_used": 1,
+    "explained_variance_ratio_pc1to4": [
+      0.7789208889007568,
+      0.21472476422786713,
+      0.0017657374264672399,
+      0.0014061807887628675
+    ]
+  },
+  "multihead_pairwise_nn": {
+    "attempt_used": 1,
+    "explained_variance_ratio_pc1to4": [
+      0.7440873384475708,
+      0.24534133076667786,
+      0.003172311931848526,
+      0.0024304690305143595
+    ]
+  }
+}

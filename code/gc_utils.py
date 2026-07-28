@@ -1,13 +1,25 @@
 import torch
 from sklearn.cluster import KMeans
 import networkx as nx
-import picos
 from operator import itemgetter
 from scipy.linalg import eigh
-import cvxpy as cp
 import numpy as np
 from sklearn.decomposition import PCA
-import plotly.express as px
+
+try:
+    import picos
+except ImportError:
+    picos = None
+
+try:
+    import cvxpy as cp
+except ImportError:
+    cp = None
+
+try:
+    import plotly.express as px
+except ImportError:
+    px = None
 
 
 def is_k_color(adj, k_assignment, print_bad=False):

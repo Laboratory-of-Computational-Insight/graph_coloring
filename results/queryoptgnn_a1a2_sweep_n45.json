@@ -1,0 +1,102 @@
+{
+  "1": {
+    "successes": 194,
+    "n_inst": 200,
+    "rate": 0.97
+  },
+  "2": {
+    "successes": 192,
+    "n_inst": 200,
+    "rate": 0.96
+  },
+  "3": {
+    "successes": 188,
+    "n_inst": 200,
+    "rate": 0.94
+  },
+  "4": {
+    "successes": 133,
+    "n_inst": 200,
+    "rate": 0.665
+  },
+  "5": {
+    "successes": 139,
+    "n_inst": 200,
+    "rate": 0.695
+  },
+  "6": {
+    "successes": 172,
+    "n_inst": 200,
+    "rate": 0.86
+  },
+  "7": {
+    "successes": 193,
+    "n_inst": 200,
+    "rate": 0.965
+  },
+  "8": {
+    "successes": 188,
+    "n_inst": 200,
+    "rate": 0.94
+  },
+  "9": {
+    "successes": 150,
+    "n_inst": 200,
+    "rate": 0.75
+  },
+  "10": {
+    "successes": 132,
+    "n_inst": 200,
+    "rate": 0.66
+  },
+  "11": {
+    "successes": 125,
+    "n_inst": 200,
+    "rate": 0.625
+  },
+  "12": {
+    "successes": 107,
+    "n_inst": 200,
+    "rate": 0.535
+  },
+  "13": {
+    "successes": 108,
+    "n_inst": 200,
+    "rate": 0.54
+  },
+  "14": {
+    "successes": 100,
+    "n_inst": 200,
+    "rate": 0.5
+  },
+  "15": {
+    "successes": 104,
+    "n_inst": 200,
+    "rate": 0.52
+  },
+  "16": {
+    "successes": 101,
+    "n_inst": 200,
+    "rate": 0.505
+  },
+  "17": {
+    "successes": 121,
+    "n_inst": 200,
+    "rate": 0.605
+  },
+  "18": {
+    "successes": 129,
+    "n_inst": 200,
+    "rate": 0.645
+  },
+  "19": {
+    "successes": 123,
+    "n_inst": 200,
+    "rate": 0.615
+  },
+  "20": {
+    "successes": 147,
+    "n_inst": 200,
+    "rate": 0.735
+  }
+}

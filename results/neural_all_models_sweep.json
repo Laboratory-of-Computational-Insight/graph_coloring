@@ -1,0 +1,5865 @@
+{
+  "5": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "0/20",
+      "pairwise_nn": "0/20",
+      "multistage_nn": "0/20",
+      "multihead_gnn": "0/20",
+      "multistage_pairwise_nn": "0/20",
+      "multihead_pairwise_nn": "0/20"
+    },
+    "any": "0/20"
+  },
+  "6": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "0/20",
+      "pairwise_nn": "0/20",
+      "multistage_nn": "0/20",
+      "multihead_gnn": "0/20",
+      "multistage_pairwise_nn": "0/20",
+      "multihead_pairwise_nn": "0/20"
+    },
+    "any": "0/20"
+  },
+  "7": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "0/20",
+      "pairwise_nn": "0/20",
+      "multistage_nn": "0/20",
+      "multihead_gnn": "0/20",
+      "multistage_pairwise_nn": "0/20",
+      "multihead_pairwise_nn": "0/20"
+    },
+    "any": "0/20"
+  },
+  "8": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 2
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "0/20",
+      "pairwise_nn": "1/20",
+      "multistage_nn": "1/20",
+      "multihead_gnn": "0/20",
+      "multistage_pairwise_nn": "0/20",
+      "multihead_pairwise_nn": "2/20"
+    },
+    "any": "3/20"
+  },
+  "9": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "1/20",
+      "pairwise_nn": "8/20",
+      "multistage_nn": "3/20",
+      "multihead_gnn": "7/20",
+      "multistage_pairwise_nn": "6/20",
+      "multihead_pairwise_nn": "2/20"
+    },
+    "any": "16/20"
+  },
+  "10": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 2
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "9/20",
+      "pairwise_nn": "16/20",
+      "multistage_nn": "12/20",
+      "multihead_gnn": "6/20",
+      "multistage_pairwise_nn": "19/20",
+      "multihead_pairwise_nn": "15/20"
+    },
+    "any": "19/20"
+  },
+  "11": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 2
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "13/20",
+      "pairwise_nn": "20/20",
+      "multistage_nn": "13/20",
+      "multihead_gnn": "18/20",
+      "multistage_pairwise_nn": "20/20",
+      "multihead_pairwise_nn": "20/20"
+    },
+    "any": "20/20"
+  },
+  "12": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "18/20",
+      "pairwise_nn": "20/20",
+      "multistage_nn": "17/20",
+      "multihead_gnn": "20/20",
+      "multistage_pairwise_nn": "20/20",
+      "multihead_pairwise_nn": "20/20"
+    },
+    "any": "20/20"
+  },
+  "13": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "19/20",
+      "pairwise_nn": "20/20",
+      "multistage_nn": "19/20",
+      "multihead_gnn": "19/20",
+      "multistage_pairwise_nn": "20/20",
+      "multihead_pairwise_nn": "20/20"
+    },
+    "any": "20/20"
+  },
+  "14": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_gnn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multistage_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        },
+        "multihead_pairwise_nn": {
+          "success": true,
+          "restarts": 1
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "20/20",
+      "pairwise_nn": "20/20",
+      "multistage_nn": "19/20",
+      "multihead_gnn": "19/20",
+      "multistage_pairwise_nn": "20/20",
+      "multihead_pairwise_nn": "20/20"
+    },
+    "any": "20/20"
+  },
+  "4.69": {
+    "per_instance": {
+      "0": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "1": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "2": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "3": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "4": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "5": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "6": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "7": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "8": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "9": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "10": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "11": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "12": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "13": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "14": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "15": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "16": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "17": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "18": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      },
+      "19": {
+        "spectral_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_gnn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multistage_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        },
+        "multihead_pairwise_nn": {
+          "success": false,
+          "restarts": 2
+        }
+      }
+    },
+    "summary": {
+      "spectral_nn": "0/20",
+      "pairwise_nn": "0/20",
+      "multistage_nn": "0/20",
+      "multihead_gnn": "0/20",
+      "multistage_pairwise_nn": "0/20",
+      "multihead_pairwise_nn": "0/20"
+    },
+    "any": "0/20"
+  }
+}

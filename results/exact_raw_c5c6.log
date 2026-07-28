@@ -1,0 +1,50 @@
+
+########## c=5 (RAW, pre-repair) ##########
+inst=0: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=585, raw_conflicts=707)
+inst=1: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=452, raw_conflicts=423)
+inst=2: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=557, raw_conflicts=604)
+inst=3: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=493, raw_conflicts=533)
+inst=4: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=478, raw_conflicts=459)
+inst=5: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=476, raw_conflicts=454)
+inst=6: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=577, raw_conflicts=680)
+inst=7: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=501, raw_conflicts=499)
+inst=8: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=497, raw_conflicts=508)
+inst=9: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=522, raw_conflicts=497)
+inst=10: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=540, raw_conflicts=561)
+inst=11: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=436, raw_conflicts=409)
+inst=12: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=404, raw_conflicts=349)
+inst=13: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=511, raw_conflicts=520)
+inst=14: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=598, raw_conflicts=697)
+inst=15: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=579, raw_conflicts=730)
+inst=16: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=567, raw_conflicts=652)
+inst=17: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=476, raw_conflicts=484)
+inst=18: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=510, raw_conflicts=526)
+inst=19: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=481, raw_conflicts=448)
+
+=== c=5 RAW: 0/20 legal via exact-fix-on-raw-conflicts ===
+
+
+########## c=6 (RAW, pre-repair) ##########
+inst=0: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=468, raw_conflicts=425)
+inst=1: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=520, raw_conflicts=534)
+inst=2: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=383, raw_conflicts=385)
+inst=3: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=557, raw_conflicts=653)
+inst=4: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=429, raw_conflicts=423)
+inst=5: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=504, raw_conflicts=595)
+inst=6: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=562, raw_conflicts=707)
+inst=7: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=533, raw_conflicts=626)
+inst=8: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=472, raw_conflicts=480)
+inst=9: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=612, raw_conflicts=823)
+inst=10: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=474, raw_conflicts=456)
+inst=11: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=630, raw_conflicts=748)
+inst=12: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=541, raw_conflicts=567)
+inst=13: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=568, raw_conflicts=595)
+inst=14: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=603, raw_conflicts=739)
+inst=15: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=499, raw_conflicts=601)
+inst=16: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=558, raw_conflicts=627)
+inst=17: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=533, raw_conflicts=551)
+inst=18: RAW pairwise exact-fix status=INFEASIBLE (n_conflict_verts=462, raw_conflicts=472)
+inst=19: RAW multistage exact-fix status=INFEASIBLE (n_conflict_verts=521, raw_conflicts=515)
+
+=== c=6 RAW: 0/20 legal via exact-fix-on-raw-conflicts ===
+

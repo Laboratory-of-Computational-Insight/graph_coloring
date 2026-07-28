@@ -1,0 +1,1260 @@
+{
+  "4.3": {
+    "n_success": 9,
+    "n_inst": 10,
+    "mean_retries_success": 40.44444444444444,
+    "max_retries_success": 83,
+    "mean_distance_success": 0.4261111111111111,
+    "methods_used": {
+      "plain": 1,
+      "reinforced": 7,
+      "hyperdiverse": 1
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.44899999999999995
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 51,
+        "distance": 0.484
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 83,
+        "distance": 0.246
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.5
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.18799999999999994
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.46599999999999997
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 55,
+        "distance": 0.5700000000000001
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 38,
+        "distance": 0.556
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.507
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.369
+      }
+    ]
+  },
+  "4.4": {
+    "n_success": 8,
+    "n_inst": 10,
+    "mean_retries_success": 35.75,
+    "max_retries_success": 73,
+    "mean_distance_success": 0.410875,
+    "methods_used": {
+      "plain": 2,
+      "reinforced": 4,
+      "hyperdiverse": 2
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 35,
+        "distance": 0.46799999999999997
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 73,
+        "distance": 0.46299999999999997
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.492
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.17400000000000004
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.17200000000000004
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.402
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 37,
+        "distance": 0.5429999999999999
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 71,
+        "distance": 0.579
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.14400000000000002
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.16600000000000004
+      }
+    ]
+  },
+  "4.42": {
+    "n_success": 9,
+    "n_inst": 10,
+    "mean_retries_success": 50.0,
+    "max_retries_success": 90,
+    "mean_distance_success": 0.4254444444444444,
+    "methods_used": {
+      "plain": 0,
+      "reinforced": 6,
+      "hyperdiverse": 3
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.469
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 75,
+        "distance": 0.385
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 40,
+        "distance": 0.46499999999999997
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.493
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.531
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 90,
+        "distance": 0.362
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 35,
+        "distance": 0.41800000000000004
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.279
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 74,
+        "distance": 0.22999999999999998
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.476
+      }
+    ]
+  },
+  "4.44": {
+    "n_success": 6,
+    "n_inst": 10,
+    "mean_retries_success": 54.333333333333336,
+    "max_retries_success": 76,
+    "mean_distance_success": 0.4575,
+    "methods_used": {
+      "plain": 0,
+      "reinforced": 4,
+      "hyperdiverse": 2
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 36,
+        "distance": 0.499
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.46099999999999997
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 48,
+        "distance": 0.373
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.16900000000000004
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.5
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 72,
+        "distance": 0.5640000000000001
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.525
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 76,
+        "distance": 0.16800000000000004
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 58,
+        "distance": 0.552
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 36,
+        "distance": 0.589
+      }
+    ]
+  },
+  "4.46": {
+    "n_success": 5,
+    "n_inst": 10,
+    "mean_retries_success": 51.6,
+    "max_retries_success": 99,
+    "mean_distance_success": 0.25780000000000003,
+    "methods_used": {
+      "plain": 2,
+      "reinforced": 0,
+      "hyperdiverse": 3
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 74,
+        "distance": 0.356
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.19099999999999995
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.279
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.16100000000000003
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.18400000000000005
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.554
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 99,
+        "distance": 0.24
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.16000000000000003
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 83,
+        "distance": 0.253
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.22299999999999998
+      }
+    ]
+  },
+  "4.48": {
+    "n_success": 8,
+    "n_inst": 10,
+    "mean_retries_success": 30.625,
+    "max_retries_success": 73,
+    "mean_distance_success": 0.28725,
+    "methods_used": {
+      "plain": 2,
+      "reinforced": 5,
+      "hyperdiverse": 1
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.40800000000000003
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 73,
+        "distance": 0.29100000000000004
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.29700000000000004
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.18200000000000005
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.29800000000000004
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.29000000000000004
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.31699999999999995
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.5720000000000001
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.43600000000000005
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.21499999999999997
+      }
+    ]
+  },
+  "4.5": {
+    "n_success": 7,
+    "n_inst": 10,
+    "mean_retries_success": 32.0,
+    "max_retries_success": 84,
+    "mean_distance_success": 0.287,
+    "methods_used": {
+      "plain": 2,
+      "reinforced": 4,
+      "hyperdiverse": 1
+    },
+    "per_instance": [
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.15100000000000002
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.18999999999999995
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.46399999999999997
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 36,
+        "distance": 0.398
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14600000000000002
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.19599999999999995
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.5349999999999999
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 84,
+        "distance": 0.20699999999999996
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.40800000000000003
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.358
+      }
+    ]
+  },
+  "4.52": {
+    "n_success": 9,
+    "n_inst": 10,
+    "mean_retries_success": 21.88888888888889,
+    "max_retries_success": 51,
+    "mean_distance_success": 0.2467777777777778,
+    "methods_used": {
+      "plain": 4,
+      "reinforced": 5,
+      "hyperdiverse": 0
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.17600000000000005
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.263
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.258
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14200000000000002
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 39,
+        "distance": 0.267
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.16600000000000004
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.22099999999999997
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 51,
+        "distance": 0.531
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.18799999999999994
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 35,
+        "distance": 0.19699999999999995
+      }
+    ]
+  },
+  "4.54": {
+    "n_success": 3,
+    "n_inst": 10,
+    "mean_retries_success": 44.666666666666664,
+    "max_retries_success": 99,
+    "mean_distance_success": 0.254,
+    "methods_used": {
+      "plain": 1,
+      "reinforced": 1,
+      "hyperdiverse": 1
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.16600000000000004
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 99,
+        "distance": 0.45599999999999996
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.5549999999999999
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.15100000000000002
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.43799999999999994
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.42200000000000004
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.477
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.5409999999999999
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.606
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14
+      }
+    ]
+  },
+  "4.56": {
+    "n_success": 5,
+    "n_inst": 10,
+    "mean_retries_success": 45.4,
+    "max_retries_success": 74,
+    "mean_distance_success": 0.27859999999999996,
+    "methods_used": {
+      "plain": 0,
+      "reinforced": 4,
+      "hyperdiverse": 1
+    },
+    "per_instance": [
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.18500000000000005
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 38,
+        "distance": 0.28800000000000003
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.20699999999999996
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.21099999999999997
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 74,
+        "distance": 0.17900000000000005
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 47,
+        "distance": 0.5369999999999999
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.558
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.509
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.18200000000000005
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.251
+      }
+    ]
+  },
+  "4.58": {
+    "n_success": 8,
+    "n_inst": 10,
+    "mean_retries_success": 36.875,
+    "max_retries_success": 77,
+    "mean_distance_success": 0.24225,
+    "methods_used": {
+      "plain": 3,
+      "reinforced": 2,
+      "hyperdiverse": 3
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 73,
+        "distance": 0.15500000000000003
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.401
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.19399999999999995
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.16800000000000004
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.525
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 77,
+        "distance": 0.15800000000000003
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 74,
+        "distance": 0.19399999999999995
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.31799999999999995
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.497
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.22599999999999998
+      }
+    ]
+  },
+  "4.6": {
+    "n_success": 6,
+    "n_inst": 10,
+    "mean_retries_success": 43.0,
+    "max_retries_success": 75,
+    "mean_distance_success": 0.166,
+    "methods_used": {
+      "plain": 2,
+      "reinforced": 1,
+      "hyperdiverse": 3
+    },
+    "per_instance": [
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.19899999999999995
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.16100000000000003
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 75,
+        "distance": 0.16300000000000003
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 74,
+        "distance": 0.16900000000000004
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.127
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.17000000000000004
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.18500000000000005
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14400000000000002
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 73,
+        "distance": 0.20799999999999996
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.494
+      }
+    ]
+  },
+  "4.62": {
+    "n_success": 6,
+    "n_inst": 10,
+    "mean_retries_success": 27.333333333333332,
+    "max_retries_success": 74,
+    "mean_distance_success": 0.1541666666666667,
+    "methods_used": {
+      "plain": 4,
+      "reinforced": 0,
+      "hyperdiverse": 2
+    },
+    "per_instance": [
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.365
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 74,
+        "distance": 0.18400000000000005
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.21299999999999997
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 72,
+        "distance": 0.17800000000000005
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.122
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.136
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.15800000000000003
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.5680000000000001
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 15,
+        "distance": 0.14300000000000002
+      }
+    ]
+  },
+  "4.64": {
+    "n_success": 4,
+    "n_inst": 10,
+    "mean_retries_success": 28.25,
+    "max_retries_success": 74,
+    "mean_distance_success": 0.1635,
+    "methods_used": {
+      "plain": 2,
+      "reinforced": 1,
+      "hyperdiverse": 1
+    },
+    "per_instance": [
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.14700000000000002
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.131
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.16100000000000003
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.17100000000000004
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14200000000000002
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.17200000000000004
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 37,
+        "distance": 0.22099999999999997
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 74,
+        "distance": 0.16000000000000003
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.43400000000000005
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.608
+      }
+    ]
+  },
+  "4.66": {
+    "n_success": 8,
+    "n_inst": 10,
+    "mean_retries_success": 27.125,
+    "max_retries_success": 76,
+    "mean_distance_success": 0.1905,
+    "methods_used": {
+      "plain": 3,
+      "reinforced": 4,
+      "hyperdiverse": 1
+    },
+    "per_instance": [
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.15400000000000003
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.269
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.129
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.25
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.15000000000000002
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.15400000000000003
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.20299999999999996
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 36,
+        "distance": 0.239
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.131
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 76,
+        "distance": 0.14900000000000002
+      }
+    ]
+  },
+  "4.68": {
+    "n_success": 7,
+    "n_inst": 10,
+    "mean_retries_success": 11.428571428571429,
+    "max_retries_success": 74,
+    "mean_distance_success": 0.15242857142857144,
+    "methods_used": {
+      "plain": 6,
+      "reinforced": 0,
+      "hyperdiverse": 1
+    },
+    "per_instance": [
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.20399999999999996
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.125
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 74,
+        "distance": 0.20299999999999996
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14500000000000002
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.135
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14300000000000002
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.16400000000000003
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14900000000000002
+      },
+      {
+        "success": false,
+        "method": "plain",
+        "retries": 100,
+        "distance": 0.14400000000000002
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.16700000000000004
+      }
+    ]
+  },
+  "4.69": {
+    "n_success": 7,
+    "n_inst": 10,
+    "mean_retries_success": 30.714285714285715,
+    "max_retries_success": 75,
+    "mean_distance_success": 0.15442857142857144,
+    "methods_used": {
+      "plain": 4,
+      "reinforced": 1,
+      "hyperdiverse": 2
+    },
+    "per_instance": [
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.15600000000000003
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.16400000000000003
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 75,
+        "distance": 0.15500000000000003
+      },
+      {
+        "success": true,
+        "method": "hyperdiverse",
+        "retries": 73,
+        "distance": 0.16500000000000004
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.17200000000000004
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 1,
+        "distance": 0.14700000000000002
+      },
+      {
+        "success": true,
+        "method": "plain",
+        "retries": 30,
+        "distance": 0.127
+      },
+      {
+        "success": false,
+        "method": "hyperdiverse",
+        "retries": 100,
+        "distance": 0.16500000000000004
+      },
+      {
+        "success": true,
+        "method": "reinforced",
+        "retries": 34,
+        "distance": 0.16700000000000004
+      },
+      {
+        "success": false,
+        "method": "reinforced",
+        "retries": 100,
+        "distance": 0.236
+      }
+    ]
+  }
+}
